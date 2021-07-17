@@ -40,3 +40,52 @@ In the terminal, try the following commands:
 - `npm test`: Run tests & generate coverage report
 - `npm run dc:up`: Start the stack with Docker Compose
 - `npm run dc:down`: Stop the stack with Docker Compose
+
+## Screenshots of output
+
+### authorized users only access
+
+![authorized_users_only_access](snaps/authorized_users_only_access.PNG)
+
+
+### database screenshot
+![](snaps/database_screenshot.PNG)
+
+### delete target url database
+![](snaps/delete_target_url_database.PNG)
+
+
+### list target url
+![](snaps/list_target_url.PNG)
+
+
+### localhost 5000 receiving post request made by my application
+
+![](snaps/localhost-5000_receiving_post_req_made_by_my_application.PNG)
+
+### No_Records initially Database
+![](snaps/No_Records_initially_Database.PNG)
+
+
+### No Records initially
+
+![](snaps/No_Records_initially.PNG)
+
+
+### Register target url database
+![](snaps/Register_target_url_database.PNG)
+
+
+### unauthorized users no access
+![](snaps/unauthorized_users_no_access.PNG)
+
+
+### update target url database
+![](snaps/update_target_url_database.PNG)
+
+
+### update target url_database
+![](snaps/update_target_url_database.PNG)
+
+### update target url
+![](snaps/update_target_url.PNG)
