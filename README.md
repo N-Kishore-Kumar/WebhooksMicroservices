@@ -44,49 +44,49 @@ In the terminal, try the following commands:
 
 ## Screenshots of output
 
-### authorized users only access
-
+### Authorized users only access
 ![authorized_users_only_access](snaps/authorized_users_only_access.PNG)
-
-
-### database screenshot
-![](snaps/database_screenshot.PNG)
-
-### delete target url database
-![](snaps/delete_target_url_database.PNG)
-
-
-### list target url
-![](snaps/list_target_url.PNG)
-
-
-### localhost 5000 receiving post request made by my application
-
-![](snaps/localhost-5000_receiving_post_req_made_by_my_application.PNG)
-
-### No_Records initially Database
-![](snaps/No_Records_initially_Database.PNG)
-
-
-### No Records initially
-
-![](snaps/No_Records_initially.PNG)
-
-
-### Register target url database
-![](snaps/Register_target_url_database.PNG)
 
 
 ### unauthorized users no access
 ![](snaps/unauthorized_users_no_access.PNG)
 
 
+### No Records initially in Database
+![](snaps/No_Records_initially_Database.PNG)
+
+
+### No Records initially
+![](snaps/No_Records_initially.PNG)
+
+
+### Register target url in database
+![](snaps/Register_target_url_database.PNG)
+
+
+### Mongo Database screenshot
+![](snaps/database_screenshot.PNG)
+
+
+### List target url from database
+![](snaps/list_target_url.PNG)
+
+
+### Delete target url 
+![](snaps/delete_target_url.PNG)
+
+
+### Delete target url from database
+![](snaps/delete_target_url_database.PNG)
+
+
+### update target url
+![](snaps/update_target_url.PNG)
+
+
 ### update target url database
 ![](snaps/update_target_url_database.PNG)
 
 
-### update target url_database
-![](snaps/update_target_url_database.PNG)
-
-### update target url
-![](snaps/update_target_url.PNG)
+### localhost:5000 receiving post request made by my application (localhost:3000) - trigger action
+![](snaps/localhost-5000_receiving_post_req_made_by_my_application.PNG)
