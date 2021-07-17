@@ -17,6 +17,9 @@ In the terminal, try the following commands:
 - `call greeter.delete --id 60f23d2463438b0be04066e1` - Call the `greeter.delete` action with the `id` parameter.
 - `call ip.trigger --ipAddress 10.10.10.10` - Call the `ip.trigger` action with the `ipAddress` parameter.
 
+## Database
+Local MongoDB storage is used
+
 ## Services
 - **api**: API Gateway services
 - **greeter**: Sample service with `register`,`update`,`list` and `delete` actions.
