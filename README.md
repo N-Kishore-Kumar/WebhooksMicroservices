@@ -13,7 +13,7 @@ In the terminal, try the following commands:
 - `actions` - List all registered service actions.
 - `call greeter.list` - Call the `greeter.list` action.
 - `call greeter.register --targetUrl http://localhost:5000` - Call the `greeter.register` action with the `targetUrl` parameter.
-- `call greeter.update --targetUrl http://localhost:5000/todo --id 60f23d2463438b0be04066e1` - Call the `greeter.register` action with the `targetUrl` and `id` parameter.
+- `call greeter.update --targetUrl http://localhost:5000/todo --id 60f23d2463438b0be04066e1` - Call the `greeter.update` action with the `targetUrl` and `id` parameter.
 - `call greeter.delete --id 60f23d2463438b0be04066e1` - Call the `greeter.delete` action with the `id` parameter.
 - `call ip.trigger --ipAddress 10.10.10.10` - Call the `ip.trigger` action with the `ipAddress` parameter.
 
