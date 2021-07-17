@@ -11,15 +11,16 @@ On the welcome page you can test the generated services via API Gateway and chec
 In the terminal, try the following commands:
 - `nodes` - List all connected nodes.
 - `actions` - List all registered service actions.
-- `call greeter.hello` - Call the `greeter.hello` action.
-- `call greeter.welcome --name John` - Call the `greeter.welcome` action with the `name` parameter.
-- `call products.list` - List the products (call the `products.list` action).
-
+- `call greeter.list` - Call the `greeter.list` action.
+- `call greeter.register --targetUrl http://localhost:5000` - Call the `greeter.register` action with the `targetUrl` parameter.
+- `call greeter.update --targetUrl http://localhost:5000/todo --id 60f23d2463438b0be04066e1` - Call the `greeter.register` action with the `targetUrl` and `id` parameter.
+- `call greeter.delete --id 60f23d2463438b0be04066e1` - Call the `greeter.delete` action with the `id` parameter.
+- `call ip.trigger --ipAddress 10.10.10.10` - Call the `ip.trigger` action with the `ipAddress` parameter.
 
 ## Services
 - **api**: API Gateway services
-- **greeter**: Sample service with `hello` and `welcome` actions.
-- **products**: Sample DB service. To use with MongoDB, set `MONGO_URI` environment variables and install MongoDB adapter with `npm i moleculer-db-adapter-mongo`.
+- **greeter**: Sample service with `register`,`update`,`list` and `delete` actions.
+- **ip**: Sample service with `trigger` action.
 
 ## Mixins
 - **db.mixin**: Database access mixin for services. Based on [moleculer-db](https://github.com/moleculerjs/moleculer-db#readme)
