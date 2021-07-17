@@ -88,5 +88,9 @@ In the terminal, try the following commands:
 ![](snaps/update_target_url_database.PNG)
 
 
+### Trigger action
+![](snaps/trigger_action.PNG)
+
+
 ### localhost:5000 receiving post request made by my application (localhost:3000) - trigger action
 ![](snaps/localhost-5000_receiving_post_req_made_by_my_application.PNG)
