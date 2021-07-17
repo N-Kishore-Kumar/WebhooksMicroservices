@@ -48,7 +48,7 @@ In the terminal, try the following commands:
 ![authorized_users_only_access](snaps/authorized_users_only_access.PNG)
 
 
-### Unauthorized users no access
+### Unauthorized users has no access
 ![](snaps/unauthorized_users_no_access.PNG)
 
 
