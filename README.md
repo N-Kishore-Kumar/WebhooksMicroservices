@@ -18,8 +18,8 @@ In the terminal, try the following commands:
 - `call ip.trigger --ipAddress 10.10.10.10` - Call the `ip.trigger` action with the `ipAddress` parameter.
 
 ## Database
-Local MongoDB storage is used for storing data
-`mongodb://localhost:27017/webhooksMicroservice`
+MongoDB is used as database. MongoDB Atlas is used which is a cloud based database. 
+Connection URL: `mongodb://localhost:27017/webhooksMicroservice`
 
 ## Services
 - **api**: API Gateway services
