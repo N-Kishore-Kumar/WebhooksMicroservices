@@ -48,7 +48,7 @@ In the terminal, try the following commands:
 ![authorized_users_only_access](snaps/authorized_users_only_access.PNG)
 
 
-### unauthorized users no access
+### Unauthorized users no access
 ![](snaps/unauthorized_users_no_access.PNG)
 
 
@@ -80,11 +80,11 @@ In the terminal, try the following commands:
 ![](snaps/delete_target_url_database.PNG)
 
 
-### update target url
+### Update target url
 ![](snaps/update_target_url.PNG)
 
 
-### update target url database
+### Update target url database
 ![](snaps/update_target_url_database.PNG)
 
 
