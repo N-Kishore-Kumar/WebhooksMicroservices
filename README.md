@@ -64,12 +64,16 @@ In the terminal, try the following commands:
 ![](snaps/Register_target_url_database.PNG)
 
 
-### Mongo Database screenshot
-![](snaps/database_screenshot.PNG)
-
-
 ### List target url from database
 ![](snaps/list_target_url.PNG)
+
+
+### Update target url
+![](snaps/update_target_url.PNG)
+
+
+### Update target url database
+![](snaps/update_target_url_database.PNG)
 
 
 ### Delete target url 
@@ -80,13 +84,8 @@ In the terminal, try the following commands:
 ![](snaps/delete_target_url_database.PNG)
 
 
-### Update target url
-![](snaps/update_target_url.PNG)
-
-
-### Update target url database
-![](snaps/update_target_url_database.PNG)
-
+### Mongo Database screenshot
+![](snaps/database_screenshot.PNG)
 
 ### Trigger action
 ![](snaps/trigger_action.PNG)
